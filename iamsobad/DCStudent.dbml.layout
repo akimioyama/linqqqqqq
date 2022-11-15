@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DCStudent">
+  <DataContextMoniker Name="/DCStudentDataContext" />
+  <nestedChildShapes>
+    <classShape Id="3339b5e6-c85c-4771-b530-20e7a3393e88" absoluteBounds="0.625, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DCStudentDataContext/StudentList" />
+      <nestedChildShapes>
+        <elementListCompartment Id="13eff05f-3214-4478-a40b-db34720ef919" absoluteBounds="0.64, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5416227-696d-4553-af4e-44a5e7c7e03e" absoluteBounds="0.625, 2.75, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/DCStudentDataContext/Subject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3e8e1d04-e240-484a-a451-4daef5fcc557" absoluteBounds="0.63999999999999968, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="df7454a4-74ef-4256-8624-80626b0191f4" absoluteBounds="3.625, 0.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DCStudentDataContext/Mark" />
+      <nestedChildShapes>
+        <elementListCompartment Id="824410cb-2a46-443f-851f-64a00d55fb25" absoluteBounds="3.6399999999999997, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
